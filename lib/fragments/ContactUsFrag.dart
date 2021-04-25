@@ -11,6 +11,6 @@ class ContactUsFrag extends StatefulWidget
 class ContactUsState extends State<ContactUsFrag>{
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(child: Text('Welcome to Contact page'),);
   }
 }
