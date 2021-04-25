@@ -11,7 +11,7 @@ class CityApi
       List<CityModels> city=cityModelsFromJson(response.body);
       return city;
     } catch (e) {
-      print('error $e');
+      print('response $e');
     }
   }
 }
