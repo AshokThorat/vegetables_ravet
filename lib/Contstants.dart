@@ -2,9 +2,7 @@ class Constants
 {
    static String loginUrl='http://itprojects.co.in/app/veginravet/ws/login.php';
    static String cityUrl='http://itprojects.co.in/app/veginravet/ws/allsociety.php';
-
    static String categaryUrl='http://itprojects.co.in/app/veginravet/ws/category.php';
-
    static String sliderUrl='http://itprojects.co.in/app/veginravet/ws/slider.php';
 
 
