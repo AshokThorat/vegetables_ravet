@@ -10,4 +10,5 @@ class CategaryApi
     List<CategoryModels> categary=categoryModelsFromJson(response.body);
     return categary;
   }
+
 }
